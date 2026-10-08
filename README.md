@@ -1,5 +1,8 @@
 # Design-on-Graph
-Design-on-Graph: A graph retrieval-augmented generation-based method to support manufacturing system design
+
+**Associated paper:** Design-on-Graph: A graph retrieval-augmented generation-based method to support manufacturing system design
+
+[https://doi.org/10.1007/978-3-032-03550-9_27](https://doi.org/10.1007/978-3-032-03550-9_27)
 
 🔗 ​**Knowledge-Aware Manufacturing System Design | 🏗️ LLM+KG Powered Automation**​
 
